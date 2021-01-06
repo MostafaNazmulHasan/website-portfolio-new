@@ -1,0 +1,71 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+}
+.name-highlight{
+    color: rgb(248,107,97);
+}
+h1{
+    font-size: 50px;
+    font-weight: 400;
+}
+p{
+    color: gray;
+}
+.button{
+    text-decoration: none;
+    color: honeydew;
+    background-color: rgb(248,107,97);
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-size: 20px;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 60%;
+}
+.first-width{
+    width: 20%;
+    overflow: hidden;
+    box-shadow: 10px 10px 40px grey;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.first-width img{
+    width: 50%;
+}
+.second-width{
+    width: 25%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5%;
+    float: left;
+    width: 20%;
+    margin: 2%;
+    height: 300px;
+    padding: 2%;
+}
+.second-width img{
+    width: 50%;
+    margin: 50px;
+}
+.wrapper2{
+    height:500px;
+}
+.wrapper3{
+    float: left;
+    position: center;
+    background-color: whitesmoke;
+}
+.wrapper3 h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+}
+.wrapper3{
+    float: left;
+}
